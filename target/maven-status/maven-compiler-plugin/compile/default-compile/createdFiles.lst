@@ -1,0 +1,3 @@
+com/saml/auth/controllers/AuthController.class
+com/saml/auth/AuthApplication.class
+com/saml/auth/config/SecurityConfig.class
